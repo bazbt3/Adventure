@@ -1,6 +1,6 @@
 ## Adventure
 
-An Adventure started [here on App.net.)](https://posts.app.net/64581696)  It's odd how things happen just around teatime.
+An Adventure started [here on App.net.](https://posts.app.net/64581696)  It's odd how things happen just around teatime.
 
 [Dice rolls](dice_rolls.md) - for those occasions when logic and imagination just isn't enough.
 
